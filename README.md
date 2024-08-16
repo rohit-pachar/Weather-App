@@ -18,6 +18,3 @@ During this project I have leanred many things like:
 - Fetching API
 - To get response from API
 - To show response on client-side
-
-# Website link
-Link: https://farhaanmalik.github.io/weather-app/
